@@ -1,0 +1,28 @@
+# Core
+gradio
+yfinance
+pandas
+numpy
+datetime
+
+# RAG / LangChain
+langchain
+langchain-huggingface
+langchain-chroma
+langchain_community
+langchain_core
+
+# Vectorstore / embeddings
+chromadb
+sentence-transformers
+
+# Hugging Face / LLM
+transformers
+torch
+accelerate
+bitsandbytes
+
+# Optional: for fine-tuning or PEFT models
+peft
+trl
+datasets
